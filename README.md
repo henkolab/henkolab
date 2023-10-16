@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @henkolab
 - 👀 I’m interested in software engineering, building apps and web dev.
-- 🌱 I’m currently learning java and flutter
-- 💞️ I’m looking to collaborate on a web platform, almost like a dropbox effect, where one can store files and retrieve them on any device.
 - 📫 How to reach me: henko48@gmail.com
 
 <!---
